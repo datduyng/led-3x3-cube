@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "msvc-x64",
+      "includePath": [
+        "${projectRoot}..\\ledCubeMain",
+        "${projectRoot}..\\..\\..\\sketches\\libraries\\arduino_ledcube_master",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\arduino\\avr\\libraries\\EEPROM\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\libraries",
+        "${projectRoot}..\\..\\..\\sketches\\libraries",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\arduino\\avr\\libraries",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\arduino\\avr\\cores\\arduino",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\arduino\\avr\\variants\\standard",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\tools\\avr\\avr\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\tools\\avr\\avr\\include\\avr",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.8.1\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\arduino-beta-1.9\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.3\\include"
+      ],
+      "defines": [
+        "__AVR_ATmega328p__",
+        "__AVR_ATmega328P__",
+        "F_CPU=16000000L",
+        "ARDUINO=10900",
+        "ARDUINO_AVR_UNO",
+        "ARDUINO_ARCH_AVR",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}
