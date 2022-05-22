@@ -2,7 +2,6 @@
 ## Led 3x3 Cube 
 - https://youtu.be/U-x5HG42O4s
 - This project is an extention and improvement of Rui Santos's LED cube project 
-- Check out his tutorial on constructing the cube [here](https://www.youtube.com/watch?v=GLx6aA75CZY)
 
 ><img src="https://user-images.githubusercontent.com/35666615/45853377-7ed4d480-bd0a-11e8-9fa5-f02a3012f08e.jpg" width="400" height="400">
 ><img src="https://user-images.githubusercontent.com/35666615/45853459-379b1380-bd0b-11e8-811e-5b24b6a89172.PNG" width="400" height="400">
